@@ -1,0 +1,16 @@
+{
+  "name": "Janus",
+  "description": "A web framework for node.js",
+  "version": "0.0.1",
+  "author": "Mike Kelly <mikekelly321@gmail.com> & Mike Amundsen <mamund@yahoo.com>",
+  "contributors" : [
+    { "name": "Mike Kelly", "email": "mikekelly321@gmail.com" },
+    { "name": "Mike Amundsen", "email": "mamund@yahoo.com" }
+  ],
+  "dependencies": {
+    "jsgi": "0.2.2"
+  },
+  "keywords": ["http", "web", "REST", "RESTful", "Resource", "Hypertext"],
+  "directories": { "lib": "./lib/Janus" },
+  "engines": { "node": "0.2.6" }
+}
