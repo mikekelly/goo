@@ -11,6 +11,6 @@
     "jsgi": "0.2.2"
   },
   "keywords": ["http", "web", "REST", "RESTful", "Resource", "Hypertext"],
-  "directories": { "lib": "./lib/Janus" },
+  "directories": { "lib": "./lib" },
   "engines": { "node": "0.2.6" }
 }
