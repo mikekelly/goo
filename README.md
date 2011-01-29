@@ -1,7 +1,7 @@
 goo
 ===
 
-A framework built with node.js to make building applications with HTTP
+A framework built with node.js for building web applications with a twist of REST.
 
 Try it out
 ----------
@@ -16,4 +16,4 @@ Example app:
 
 Why "goo"?
 ----------
-http://www.youtube.com/watch?v=XXi_ldNRNtM
+[youtube.com/watch?v=XXi_ldNRNtM](http://www.youtube.com/watch?v=XXi_ldNRNtM)
