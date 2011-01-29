@@ -10,7 +10,7 @@ Install:
 
     git clone git@github.com:mikekelly/goo.git && npm link ./goo
 
-Example app:
+Example app ([link](https://github.com/mikekelly/goo-example)):
 
     git clone git@github.com:mikekelly/goo-example.git && cd goo-example && node server.js
 
