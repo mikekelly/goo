@@ -12,8 +12,7 @@ Install:
 
 Example app:
 
-    git clone git@github.com:mikekelly/goo-example.git && cd goo-example &&
-node server.js
+    git clone git@github.com:mikekelly/goo-example.git && cd goo-example && node server.js
 
 Why "goo"?
 ----------
